@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Imagem de DOE" src="logo.png" width="200px" />
+	<img alt="Imagem de DOE" src="logo.png" width="150px" />
 </h1>
 
 <h3 align="center">
