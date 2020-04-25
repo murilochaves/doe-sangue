@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-	Projeto <b>D<span style="color: #ff0000">O</span>E Sangue</b> desenvolvido durante a 3ª ed. da MaratonaDev da pela Rocketseat 🎓
+	Projeto <b>D<span style="color: #ff0000">O</span>E Sangue</b> desenvolvido durante a 3ª ed. da MaratonaDev da Rocketseat 🎓
 </p>
 
 <p align="center">
@@ -20,3 +20,31 @@
 	<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 	</img>
 </p>
+
+<p align="center">
+	<a href="#rocket-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#memo-licença">Licença</a>
+</p>
+
+## :rocket: Instalação
+
+1. Faça a instalação do editor de código [VS Code](https://code.visualstudio.com);
+2. Instale o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) pelas ferramentas de inspeção de código web.
+
+### Tecnologias
+
+* `HTML` (estrutura);
+* `CSS` (estilo);
+* `JavaScript` (inteligência).
+
+### Apresentação
+
+Você sabia que uma simples doação de sangue pode salvar até 3 vidas? No cenário brasileiro, a doação de sangue não se é uma prática tão corriqueira, apesar de sempre estarmos cientes que a doação de sangue é importante e, vermos várias campanhas, apenas 1,9% da população brasileira realiza a doação de sangue constantemente. Todos os dias são necessárias mais de 38.000 doações para que atenda a demanda dos hemocentros. Sendo assim, este projeto visa proporcionar o alcançe à mais pessoas por ser disponível na web e, maior facilidade para encontrar os tipos sanguíneos podendo entrar em contato com a pessoa via e-mail quando necessitar de doações de um determinado tipo.
+
+### Interface
+
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
