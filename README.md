@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="GoStack" src="./frontend/public/logo.png" width="200px" />
+	<img alt="Imagem de DOE" src="logo.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -41,8 +41,8 @@
 	Você sabia que uma simples doação de sangue pode salvar até 3 vidas?
 	<br/><br/>
 	No cenário brasileiro, a doação de sangue não se é uma prática tão corriqueira, apesar de sempre estarmos cientes que a doação de sangue é importante e, vermos várias campanhas, apenas 1.9% da população brasileira realiza a doação de sangue constantemente. Todos os dias são necessárias mais de 38.000 doações para que atenda a demanda dos hemocentros. Sendo assim, este projeto visa proporcionar o alcançe à mais pessoas por ser disponível na web e, maior facilidade para encontrar os tipos sanguíneos podendo entrar em contato com a pessoa via e-mail quando necessitar de doações de um determinado tipo.
-	<br/><br/><br/>
-	<b>P.S.</b>: Este aplicação foi criada à partir da 3ª MaratonaDev disponibilizada pela Rocketseat, um evento on-line ministrado por [Mayk Brito](https://github.com/maykbrito) entre: 17/02/2020 à 19/02/2020.
+	<br/><br/>
+	<b>P.S.</b>: <i>Este aplicação foi criada à partir da 3ª MaratonaDev disponibilizada pela Rocketseat, um evento on-line ministrado por [Mayk Brito](https://github.com/maykbrito) entre: 17/02/2020 à 19/02/2020</i>.
 <p>
 
 ### Interface
