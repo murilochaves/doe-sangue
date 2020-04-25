@@ -47,6 +47,10 @@
 
 ### Interface
 
+<h1 align="center">
+	<img alt="Interface Visual" src="interface.png" />
+</h1>
+
 ### Extensões
 
 * `Live Server`: Ritwick Dey - permite atualização automática da conteúdo da página `HTML`.
