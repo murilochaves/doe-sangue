@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-	Um minimalista sistema para cadastro de doadores de sangue.
+	Um sistema minimalista para cadastrar doadores de sangue.
 </h3>
 
 <p align="center">
-	Projeto <b>DOE Sangue</b> desenvolvido durante a 3ª ed. da MaratonaDev disponibilizada pela Rocketseat 🎓
+	Projeto <b>D<span style="color: #ff0000">O</span>E Sangue</b> desenvolvido durante a 3ª ed. da MaratonaDev da pela Rocketseat 🎓
 </p>
 
 <p align="center">
