@@ -13,8 +13,6 @@
 <p align="center">
 	<img alt="GitHub complete" src="https://img.shields.io/badge/MaratonaDev-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
 	</img>
-	<img alt="Github reposize" src="https://img.shields.io/github/repo-size/MuriloChaves/DoeSangue.svg">
-	</img>
 	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MuriloChaves/rocketseat-maratonaDev-3?color=%2304D361">
 	</img>
 	<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -44,14 +42,14 @@
 	<br/><br/>
 	No cenário brasileiro, a doação de sangue não se é uma prática tão corriqueira, apesar de sempre estarmos cientes que a doação de sangue é importante e, vermos várias campanhas, apenas 1.9% da população brasileira realiza a doação de sangue constantemente. Todos os dias são necessárias mais de 38.000 doações para que atenda a demanda dos hemocentros. Sendo assim, este projeto visa proporcionar o alcançe à mais pessoas por ser disponível na web e, maior facilidade para encontrar os tipos sanguíneos podendo entrar em contato com a pessoa via e-mail quando necessitar de doações de um determinado tipo.
 	<br/><br/><br/>
-	<p>P.S.</p>: Este aplicação foi criada à partir da 3ª MaratonaDev disponibilizada pela Rocketseat, um evento on-line ministrado por [Mayk Brito](https://github.com/maykbrito) entre: 17/02/2020 à 19/02/2020.
+	<b>P.S.</b>: Este aplicação foi criada à partir da 3ª MaratonaDev disponibilizada pela Rocketseat, um evento on-line ministrado por [Mayk Brito](https://github.com/maykbrito) entre: 17/02/2020 à 19/02/2020.
 <p>
 
 ### Interface
 
 ### Extensões
 
-* Live Server: Ritwick Dey - permite atualização automática da conteúdo da página `HTML`.
+* `Live Server`: Ritwick Dey - permite atualização automática da conteúdo da página `HTML`.
 
 ### Sites
 
