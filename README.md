@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Imagem de DOE" src="./public/logo.png" width="150px" />
+	<img alt="Imagem de DOE" src="./frontend/public/logo.png" width="150px" />
 </h1>
 
 <h3 align="center">
@@ -20,6 +20,7 @@
 <p align="center">
 	<a href="#rocket-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#-produção">Produção</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-execução">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,10 +39,10 @@
 3. Instale todas as dependências;
 4. Configure o arquivo `server.js`:
 4.1 Ligue o servidor e permita o acesso à alguma porta (3000) `server.listen`;
-4.2 Configure a apresentação da página
-4.3 Configure a template engine
-4.4 Configure o servidor para apresentar os arquivos estáticos
-4.5 Configure o banco de dados
+4.2 Configure a apresentação da página,
+4.3 Configure a template engine,
+4.4 Configure o servidor para apresentar os arquivos estáticos,
+4.5 Configure o banco de dados.
 
 ### Dependências
 
@@ -52,7 +53,7 @@
 
 ## Execução
 
-1. Rode o servidor com `node server.js`;
+1. Rode o servidor com `npm start` ou `nodemon server.js`.
 
 ### Tecnologias
 
@@ -75,7 +76,7 @@
 ### Interface
 
 <h1 align="center">
-	<img alt="Interface Visual" src="interface.png" />
+	<img alt="Interface Visual" src="./frontend/public/interface.png" />
 </h1>
 
 ### Extensões
