@@ -53,7 +53,9 @@
 
 ## Execução
 
-1. Rode o servidor com `npm start` ou `nodemon server.js`.
+1. Faça o clone do repositório;
+2. Instale as dependências do projeto `npm install`;
+3. Rode o servidor com `npm start` ou `nodemon server.js`.
 
 ### Tecnologias
 
