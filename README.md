@@ -37,11 +37,11 @@
 1. Entre na pasta do projeto com `cd doesangue`;
 2. Rode o comando `npm init -y`;
 3. Instale todas as dependências;
-4. Configure o arquivo `server.js`:
-4.1 Ligue o servidor e permita o acesso à alguma porta (3000) `server.listen`;
-4.2 Configure a apresentação da página,
-4.3 Configure a template engine,
-4.4 Configure o servidor para apresentar os arquivos estáticos,
+4. Configure o arquivo `server.js`: <br/>
+4.1 Ligue o servidor e permita o acesso à alguma porta (3000) `server.listen`; <br/>
+4.2 Configure a apresentação da página, <br/>
+4.3 Configure a template engine, <br/>
+4.4 Configure o servidor para apresentar os arquivos estáticos, <br/>
 4.5 Configure o banco de dados.
 
 ### Dependências
