@@ -3,7 +3,7 @@ const express = require("express")
 const server = express()
 
 // configurar o servidor para apresentar arquivos estáticos
-server.use(express.static("public"))
+server.use(express.static("../frontend/public"))
 
 // habilitar body do formulário
 server.use(express.urlencoded({ extended: true }))
@@ -20,7 +20,7 @@ const db = new Pool({
 
 // configurando a template engine
 const nunjucks = require("nunjucks")
-nunjucks.configure("./", {
+nunjucks.configure("../frontend/", {
     express: server,
     noCache: true
 })
