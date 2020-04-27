@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Imagem de DOE" src="./frontend/public/logo.png" width="150px" />
+	<img alt="Imagem de DOE" src="./src/frontend/public/logo.png" width="150px" />
 </h1>
 
 <h3 align="center">
@@ -78,7 +78,7 @@
 ### Interface
 
 <h1 align="center">
-	<img alt="Interface Visual" src="./frontend/public/interface.png" />
+	<img alt="Interface Visual" src="./src/frontend/public/interface.png" />
 </h1>
 
 ### Extensões
