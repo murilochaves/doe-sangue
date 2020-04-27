@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Imagem de DOE" src="logo.png" width="150px" />
+	<img alt="Imagem de DOE" src="./public/logo.png" width="150px" />
 </h1>
 
 <h3 align="center">
@@ -19,19 +19,48 @@
 
 <p align="center">
 	<a href="#rocket-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-produção">Produção</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#memo-licença">Licença</a>
 </p>
 
 ## :rocket: Instalação
 
 1. Faça a instalação do editor de código [VS Code](https://code.visualstudio.com);
-2. Utilize o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) com as ferramentas de inspeção de código web.
+2. Utilize o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) com as ferramentas de inspeção de código web;
+3. Instale o [Node.js](https://nodejs.org/en/);
+4. Instale o [PostgreSQL](https://www.postgresql.org/);
+5. Instale o [Postbird](https://www.electronjs.org/apps/postbird).
+
+## Produção
+
+1. Entre na pasta do projeto com `cd doesangue`;
+2. Rode o comando `npm init -y`;
+3. Instale todas as dependências;
+4. Configure o arquivo `server.js`:
+4.1 Ligue o servidor e permita o acesso à alguma porta (3000) `server.listen`;
+4.2 Configure a apresentação da página
+4.3 Configure a template engine
+4.4 Configure o servidor para apresentar os arquivos estáticos
+4.5 Configure o banco de dados
+
+### Dependências
+
+* `express` (framework para o node.js);
+* `nodemon` (realiza auto-restart da aplicação ao salvar um arquivo modificado);
+* `nunjucks` (template engine que permite manipular os conteúdos html de maneira mais fácil, intuitiva e dinâmica);
+* `pg` (permite conexão com o banco de dados)
+
+## Execução
+
+1. Rode o servidor com `node server.js`;
 
 ### Tecnologias
 
 * `HTML` (estrutura);
 * `CSS` (estilo);
-* `JavaScript` (inteligência).
+* `JavaScript` (inteligência);
+* `Node.js` (sevidor, motor de JavaScript);
+* `PostgreSQL` (banco de dados).
 
 ### Apresentação
 

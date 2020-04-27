@@ -153,8 +153,9 @@ main .donors {
     transform: rotate(-45deg);
 }
 
-.donors p {
+.donor p {
     margin-top: 24px;
+    margin-bottom: 64px;
     font-size: 14px;
 }
 
@@ -168,7 +169,6 @@ footer {
 }
 
 /* funcionalidades com javascript */
-
 section.form {
     transition: all 300ms;
 }
